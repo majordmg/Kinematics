@@ -21,6 +21,6 @@ torch==1.7.0+cu110
 torchaudio==0.7.0
 torchtext==0.6.0
 torchvision==0.8.1+cu110
-tqdm==4.51.0
+tqdm==4.66.3
 typing-extensions==3.7.4.3
 urllib3==1.25.11
